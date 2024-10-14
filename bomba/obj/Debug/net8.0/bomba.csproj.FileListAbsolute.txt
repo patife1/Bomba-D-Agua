@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\Tazercraft\Bomba-D-Agua\bomba\bin\Debug\net8.0\bomba.exe
+C:\Users\Aluno\Documents\Tazercraft\Bomba-D-Agua\bomba\bin\Debug\net8.0\bomba.deps.json
+C:\Users\Aluno\Documents\Tazercraft\Bomba-D-Agua\bomba\bin\Debug\net8.0\bomba.runtimeconfig.json
+C:\Users\Aluno\Documents\Tazercraft\Bomba-D-Agua\bomba\bin\Debug\net8.0\bomba.dll
+C:\Users\Aluno\Documents\Tazercraft\Bomba-D-Agua\bomba\bin\Debug\net8.0\bomba.pdb
+C:\Users\Aluno\Documents\Tazercraft\Bomba-D-Agua\bomba\obj\Debug\net8.0\bomba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Tazercraft\Bomba-D-Agua\bomba\obj\Debug\net8.0\bomba.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Tazercraft\Bomba-D-Agua\bomba\obj\Debug\net8.0\bomba.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Tazercraft\Bomba-D-Agua\bomba\obj\Debug\net8.0\bomba.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Tazercraft\Bomba-D-Agua\bomba\obj\Debug\net8.0\bomba.sourcelink.json
+C:\Users\Aluno\Documents\Tazercraft\Bomba-D-Agua\bomba\obj\Debug\net8.0\bomba.dll
+C:\Users\Aluno\Documents\Tazercraft\Bomba-D-Agua\bomba\obj\Debug\net8.0\refint\bomba.dll
+C:\Users\Aluno\Documents\Tazercraft\Bomba-D-Agua\bomba\obj\Debug\net8.0\bomba.pdb
+C:\Users\Aluno\Documents\Tazercraft\Bomba-D-Agua\bomba\obj\Debug\net8.0\bomba.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Tazercraft\Bomba-D-Agua\bomba\obj\Debug\net8.0\ref\bomba.dll
